@@ -1,0 +1,49 @@
+#main-head {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 40px 30px;
+    background-color: rgb(42, 165, 159);
+    color: azure;
+    height: 5rem;
+   
+}
+#main-head ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    color: azure;
+    padding: 0%;
+    margin: 0%;
+    
+  
+    height: 4rem;
+   
+    
+   
+    
+}
+#home {
+    padding: 20px;
+    color:azure;
+    font-family:serif;
+    font-size: 2rem;
+     
+}
+#main-head ul li {
+    margin: 0 2rem 1rem 2rem;
+    padding:2px ;
+}
+#main-head ul li a {
+    color:azure;
+    font-family: serif;
+    font-size: 1.5rem;
+    padding: 20px 5px;
+    
+}
+a {
+    text-decoration: none;
+}
+
+
